@@ -1,0 +1,71 @@
+## When main_2 was run
+
+Safety Warning: This airport will become saturated.
+0: Runway is idle.
+Plane number 0 ready to land.
+Plane number 1 ready to land.
+Plane number 2 ready to land.
+Plane number 3 ready to take off.
+Plane number 4 ready to take off.
+Plane number 5 ready to take off.
+Plane number 6 ready to take off.
+1: Plane number 0 landed after 0 time units in the takeoff queue.
+Plane number 7 ready to land.
+Plane number 8 ready to land.
+Plane number 9 ready to take off.
+Plane number 9 told to try to takeoff again later
+Plane number 10 ready to take off.
+Plane number 10 told to try to takeoff again later
+Plane number 11 ready to take off.
+Plane number 11 told to try to takeoff again later
+2: Plane number 1 landed after 1 time unit in the takeoff queue.
+Plane number 12 ready to take off.
+Plane number 12 told to try to takeoff again later
+3: Plane number 2 landed after 2 time units in the takeoff queue.
+Simulation has concluded after 4 time units.
+Total number of planes processed 5
+Total number of planes asking to land 5
+Total number of planes asking to take off 0
+Total number of planes accepted for landing 5
+Total number of planes accepted for takeoff 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 3
+Total number of planes that took off 0
+Total number of planes left in landing queue 2
+Total number of planes left in takeoff queue 0
+Percentage of time runway idle 25%
+Average wait in landing queue 1 time units
+Average wait in takeoff queue -nan(ind) time units
+Average observed rate of planes wanting to land 1.25 per time unit
+Average observed rate of planes wanting to take off 0 per time unit
+
+
+
+## On 4-4-3-3 main_1
+
+Total number of planes processed 26
+Total number of planes asking to land 12
+Total number of planes asking to take off 14
+Total number of planes accepted for landing 6
+Total number of planes accepted for takeoff 4
+Total number of planes refused for landing 6
+Total number of planes refused for takeoff 10
+Total number of planes that landed 3
+Total number of planes that took off 0
+Total number of planes left in landing queue 3
+Total number of planes left in takeoff queue 4
+
+
+
+Total number of planes processed 12
+Total number of planes asking to land 12
+Total number of planes asking to take off 0
+Total number of planes accepted for landing 6
+Total number of planes accepted for takeoff 0
+Total number of planes refused for landing 6
+Total number of planes refused for takeoff 0
+Total number of planes that landed 3
+Total number of planes that took off 0
+Total number of planes left in landing queue 3
+Total number of planes left in takeoff queue 0
